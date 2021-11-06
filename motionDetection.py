@@ -13,7 +13,7 @@ from threading import Thread
 from time import sleep  # Importing the time library to provide the delays in progra
 
 bot = telepot.Bot('your_bot_id')
-globalChatId = your_chat_id
+globalChatId = `your_chat_id`
  
 # Initialize the camera
 camera = PiCamera()
