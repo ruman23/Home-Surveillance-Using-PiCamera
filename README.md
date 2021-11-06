@@ -1,4 +1,4 @@
-# Home Surveillance Using Raspberry PI and PI Camera.
+# Home Surveillance
 
 This project lets the user to capute the image of any object or person after detecting the motion. After detecting the motinon it can send the images to users via Telegram messenger. 
 
