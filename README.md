@@ -42,7 +42,7 @@ Now, please open the `motionDetection.py` and then replace the  `your_bot_id` by
 
 ```bash
 bot = telepot.Bot('your_bot_id')
-globalChatId = your_chat_id
+globalChatId = `your_chat_id`
 ``` 
 
 - ### Connect to camera
